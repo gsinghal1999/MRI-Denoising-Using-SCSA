@@ -1,0 +1,11 @@
+addpath ./Functions
+addpath ./Functions/sharpness_fun
+addpath ./Functions/SCSA_2D1D
+addpath ./Functions/spm12
+addpath ./Functions/Displays
+addpath ./Functions/Imfil
+addpath ./Functions/Read_data
+addpath ./Functions/Evaluation_Metrics
+addpath ./Functions/load_data
+addpath ./Functions/Optimization
+addpath ./Functions/save_decomposition
