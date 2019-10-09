@@ -34,7 +34,7 @@ Nb_x0=3;                            % the number pf intial guesses
 plot_cost=0;                        % if you need to plot the cost function evolution 
 %% Bounds 
 Li_h=0;Ui_h=5; Nb_h=20;             % The upper and lower bounds of <h> ; Nb_h=Number of values                            
-Li_gm=0;Ui_gm=6;  Nb_gm=13;         % The upper and lower bounds of <gm>; Nb_gm=Number of values     
+Li_gm=0;Ui_gm=1;  Nb_gm=20;         % The upper and lower bounds of <gm>; Nb_gm=Number of values     
 Li_fs=1;Ui_fs=3;   Nb_fs=3;         % The upper and lower bounds of <fs>  ; Nb_fs=Number of values     
 
 %% Choose the simulation parameters
